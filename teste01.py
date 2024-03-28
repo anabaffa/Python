@@ -18,3 +18,5 @@ idade = input('Qual sua idade? ')
 peso = input('Qual seu peso? ')
 print(nome, idade, peso)
 
+nome = input('Qual seu nome ')
+print('Olá ', nome, '! Prazer em te conhecer!')
